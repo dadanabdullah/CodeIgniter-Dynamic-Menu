@@ -1,0 +1,14 @@
+{
+  "name": "CodeIgniter Dynamic Menu",
+  "version": "1.0.0",
+  "description": "Easy way to create dynamic menu from plain array.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dadan Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^2.4.18"
+  }
+}
